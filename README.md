@@ -1,1 +1,1 @@
-# DS-Algo-Mentorship-Shades-of-Code-
+# DS-Algo-Mentorship-Shades-of-Code
